@@ -49,4 +49,3 @@ for (const filePath of files) {
 }
 
 console.log("Done fixing Prisma ESM imports.");
-EOF
